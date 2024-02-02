@@ -467,10 +467,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7918335002988649766, guid: c0cd2efeb453f5748a2564cb52e74b63,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b216d0ea6426f5749a42d853bf640c73, type: 2}
+    - target: {fileID: -7493596028755563170, guid: c0cd2efeb453f5748a2564cb52e74b63,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -16.7
+      objectReference: {fileID: 0}
+    - target: {fileID: -1538112130698044685, guid: c0cd2efeb453f5748a2564cb52e74b63,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 882129737928793925, guid: c0cd2efeb453f5748a2564cb52e74b63,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 19ac4fcfcf42b4344a6c7d97a5cd61fc, type: 2}
     - target: {fileID: 919132149155446097, guid: c0cd2efeb453f5748a2564cb52e74b63,
         type: 3}
       propertyPath: m_Name
       value: HerooMap1
       objectReference: {fileID: 0}
+    - target: {fileID: 7339356831882890532, guid: c0cd2efeb453f5748a2564cb52e74b63,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 19ac4fcfcf42b4344a6c7d97a5cd61fc, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c0cd2efeb453f5748a2564cb52e74b63, type: 3}
